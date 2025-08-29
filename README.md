@@ -1,5 +1,5 @@
 # Collaborative Group Study Planner
-Tthe Collaborative Group Study Planner System developed to enhance student study engagement. It describes the system requirements, software development tools, and the outcomes of implementing key features. These include group session scheduling, real-time group chat with file sharing and push notifications, interactive calendar integration, notification tracking, and a user-friendly landing page interface.
+The Collaborative Group Study Planner System developed to enhance student study engagement. It describes the system requirements, software development tools, and the outcomes of implementing key features. These include group session scheduling, real-time group chat with file sharing and push notifications, interactive calendar integration, notification tracking, and a user-friendly landing page interface.
 
 - System Requirements
     - Hardware Requirements
