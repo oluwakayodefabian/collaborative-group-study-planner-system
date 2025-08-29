@@ -1,4 +1,26 @@
 # Collaborative Group Study Planner
+Tthe Collaborative Group Study Planner System developed to enhance student study engagement. It describes the system requirements, software development tools, and the outcomes of implementing key features. These include group session scheduling, real-time group chat with file sharing and push notifications, interactive calendar integration, notification tracking, and a user-friendly landing page interface.
+
+- System Requirements
+    - Hardware Requirements
+        - Processor: Dual-Core 2.0 GHz or higher
+        - RAM: Minimum 4 GB
+        - Storage: Minimum 10 GB of free disk space
+        - Display: 1024x768 resolution or higher
+        - Internet Access: Required for real-time features and notifications
+
+    - Software Requirements
+        - Operating System: Windows, Linux, or macOS
+        - Web Server: Apache or Nginx
+        - Backend: PHP 8.2+, Laravel 11+
+        - Frontend: HTML5, CSS3, JavaScript, Bootstrap 4
+        - Database: MySQL 5.7 or newer
+        - Others:      
+            - Composer (PHP dependency manager)
+            - Node.js and npm
+            - Laravel Echo Server / Pusher for broadcasting
+            - SSL certificate (for web push notifications)
+            - Service Worker for handling push messages
 
 ---
 Here’s a comprehensive documentation for the **Group Chatroom** feature of your “Collaborative Group Study Planner System”.
